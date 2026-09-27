@@ -37,7 +37,7 @@ The following video demonstrates the **web-based implementation of the proposed 
 
 Demonstration of the web-based emotion recognition system, showing the integration of the multimodal emotion recognition framework through the website interface.
 
-**▶️ [Watch the Website Demonstration](RELEASE_VIDEO_LINK)**
+**▶️ [Watch the Website Demonstration](../../releases/latest)**
 
 > The demonstration video is provided through the repository's GitHub Release.
 > The underlying source code, implementation details, and datasets remain restricted pending publication.
