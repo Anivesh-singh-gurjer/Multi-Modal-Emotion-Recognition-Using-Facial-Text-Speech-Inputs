@@ -2,8 +2,8 @@
 
 > **Research Project / Master's Thesis**
 
-We're currently preparing this work for publication.  
-For this reason, only the **Abstract** and **Keywords** are publicly available at this stage.
+We're currently preparing this work for publication.
+For this reason, only the **Abstract**, **Keywords**, and selected **demonstration material** are publicly available at this stage.
 
 ---
 
@@ -29,6 +29,21 @@ Experimental results demonstrate robust unimodal test accuracies of **93.38% (vi
 
 ---
 
+## 🎥 Demonstration Videos
+
+The following video demonstrates the **web-based implementation of the proposed multimodal emotion recognition framework**, including the interaction interface and emotion recognition workflow.
+
+### 🧠 Emotion Recognition Framework — Website Demonstration
+
+Demonstration of the web-based emotion recognition system, showing the integration of the multimodal emotion recognition framework through the website interface.
+
+**▶️ [Watch the Website Demonstration](RELEASE_VIDEO_LINK)**
+
+> The demonstration video is provided through the repository's GitHub Release.
+> The underlying source code, implementation details, and datasets remain restricted pending publication.
+
+---
+
 > 🔒 **Publication Status**
 >
-> This repository is currently restricted to the publicly shareable material from the thesis. Additional implementation details, datasets, experiments, and source code will be made available following publication.
+> This repository currently contains the publicly shareable material from the thesis, including the abstract, keywords, and selected demonstration material. Additional implementation details, datasets, experiments, and source code will be made available following publication.
